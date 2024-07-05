@@ -1,0 +1,1 @@
+This project utilizes the XGBoost library and its XGBRegressor to predict house prices based on provided features. Using a robust gradient boosting framework, the model achieves high accuracy by optimizing both computational speed and model performance.
